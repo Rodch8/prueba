@@ -1,0 +1,43 @@
+{
+  "duration_seconds": 45.0,
+  "frames": 1350,
+  "width": 1080,
+  "height": 1920,
+  "video_codec": "h264",
+  "pixel_format": "yuv420p",
+  "audio_codec": "aac",
+  "file_bytes": 17302845,
+  "decode_check": "passed",
+  "voice_segment_checks": [
+    {
+      "timeline": 0,
+      "source": 1.6,
+      "duration": 2.1,
+      "audio_correlation": 0.99626
+    },
+    {
+      "timeline": 4.8,
+      "source": 4,
+      "duration": 5.2,
+      "audio_correlation": 0.99716
+    },
+    {
+      "timeline": 12.5,
+      "source": 10.1,
+      "duration": 5.5,
+      "audio_correlation": 0.97977
+    },
+    {
+      "timeline": 20.5,
+      "source": 16.2,
+      "duration": 4.6,
+      "audio_correlation": 0.99645
+    },
+    {
+      "timeline": 28,
+      "source": 22.1,
+      "duration": 7.8,
+      "audio_correlation": 0.99697
+    }
+  ]
+}
